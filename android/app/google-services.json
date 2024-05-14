@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942625397200",
+    "project_id": "homecheffoodlink",
+    "storage_bucket": "homecheffoodlink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942625397200:android:fe8749cd7d9804bfbac1d5",
+        "android_client_info": {
+          "package_name": "com.example.homechef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJxsunD61sOiUynoNrT_A_7BRJY0Gis_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942625397200:android:e7bc7d03643e7adcbac1d5",
+        "android_client_info": {
+          "package_name": "com.macaulayfamoys.uber_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJxsunD61sOiUynoNrT_A_7BRJY0Gis_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
